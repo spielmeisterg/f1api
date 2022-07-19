@@ -28,7 +28,7 @@ app.post("/upload/pu", (req,res) => {
     console.log("tried to update pu usage")
     res.send("tried to update pu usage")
 })
-app.get("/data", (req,res) => {
+app.get("/results", (req,res) => {
     for(let i = 0; i <= 19; i++){
         data.push(getDriverData(i, trimmedResults,0))
     }
@@ -36,7 +36,7 @@ app.get("/data", (req,res) => {
     res.json(data)
 })
 
-app.get("/pudata", (req,res) => {
+app.get("/pu", (req,res) => {
     for(let i = 0; i <= 19; i++){
         puUsage.push(getPuData(i, trimmedPuData,0))
     }
