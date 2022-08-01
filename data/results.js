@@ -1,5 +1,5 @@
 const json = {
-  "pdfDoc" : "2022 Spanish Grand Prix - Final Race Classification (2).pdf",
+  "pdfDoc" : "2022 Hungarian Grand Prix - Final Race Classification.pdf",
   "extractedBy" : "https://busypdf.com",
   "pages" : [ {
     "pageNo" : 1,
@@ -8,61 +8,61 @@ const json = {
     "trimBoxWidth" : 595.0,
     "trimBoxHeight" : 842.0,
     "txtRns" : [ {
-      "leftX" : 169.1254,
+      "leftX" : 154.1108,
       "bottomY" : 143.5007,
-      "rightX" : 235.1895,
+      "rightX" : 221.1759,
       "topY" : 123.7836,
       "baseLineY" : 139.0864,
       "fontId" : 1,
-      "text" : "2022 S"
+      "text" : "2022 H"
     }, {
-      "leftX" : 235.1895,
+      "leftX" : 221.1759,
       "bottomY" : 142.8701,
-      "rightX" : 302.2507,
+      "rightX" : 316.7648,
       "topY" : 125.9697,
       "baseLineY" : 139.0864,
       "fontId" : 2,
-      "text" : "PANISH"
+      "text" : "UNGARIAN"
     }, {
-      "leftX" : 302.2547,
+      "leftX" : 316.7688,
       "bottomY" : 143.5007,
-      "rightX" : 324.7766,
+      "rightX" : 339.2906,
       "topY" : 123.7836,
       "baseLineY" : 139.0864,
       "fontId" : 1,
       "text" : " G"
     }, {
-      "leftX" : 324.7766,
+      "leftX" : 339.2906,
       "bottomY" : 142.8701,
-      "rightX" : 376.3226,
+      "rightX" : 390.8367,
       "topY" : 125.9697,
       "baseLineY" : 139.0864,
       "fontId" : 2,
       "text" : "RAND"
     }, {
-      "leftX" : 376.3266,
+      "leftX" : 390.8407,
       "bottomY" : 143.5007,
-      "rightX" : 396.346,
+      "rightX" : 410.8601,
       "topY" : 123.7836,
       "baseLineY" : 139.0864,
       "fontId" : 1,
       "text" : " P"
     }, {
-      "leftX" : 396.346,
+      "leftX" : 410.8601,
       "bottomY" : 142.8701,
-      "rightX" : 436.3669,
+      "rightX" : 450.881,
       "topY" : 125.9697,
       "baseLineY" : 139.0864,
       "fontId" : 2,
       "text" : "RIX "
     }, {
-      "leftX" : 247.2012,
+      "leftX" : 246.7007,
       "bottomY" : 156.8337,
-      "rightX" : 347.799,
+      "rightX" : 347.7989,
       "topY" : 144.6278,
       "baseLineY" : 154.101,
       "fontId" : 3,
-      "text" : "19 - 22 May 2022"
+      "text" : "28 - 31 July 2022"
     }, {
       "leftX" : 46.0058,
       "bottomY" : 197.7434,
@@ -94,7 +94,7 @@ const json = {
       "topY" : 189.3553,
       "baseLineY" : 196.6423,
       "fontId" : 5,
-      "text" : "61"
+      "text" : "45"
     }, {
       "leftX" : 46.0058,
       "bottomY" : 217.7628,
@@ -122,11 +122,11 @@ const json = {
     }, {
       "leftX" : 450.899,
       "bottomY" : 218.7638,
-      "rightX" : 508.9553,
+      "rightX" : 506.9534,
       "topY" : 209.3747,
       "baseLineY" : 216.6617,
       "fontId" : 5,
-      "text" : "22 May 2022"
+      "text" : "31 July 2022"
     }, {
       "leftX" : 388.3383,
       "bottomY" : 237.7823,
@@ -142,7 +142,7 @@ const json = {
       "topY" : 229.3941,
       "baseLineY" : 236.6812,
       "fontId" : 5,
-      "text" : "19:55"
+      "text" : "19:30"
     }, {
       "leftX" : 46.0058,
       "bottomY" : 275.634,
@@ -154,11 +154,11 @@ const json = {
     }, {
       "leftX" : 118.5763,
       "bottomY" : 276.1345,
-      "rightX" : 184.14,
+      "rightX" : 244.1983,
       "topY" : 265.337,
       "baseLineY" : 273.7172,
       "fontId" : 7,
-      "text" : "Timing Sheet"
+      "text" : "Final Race Classification"
     }, {
       "leftX" : 46.0058,
       "bottomY" : 298.1559,
@@ -170,11 +170,11 @@ const json = {
     }, {
       "leftX" : 118.5763,
       "bottomY" : 298.6564,
-      "rightX" : 244.1983,
+      "rightX" : 184.14,
       "topY" : 287.8589,
       "baseLineY" : 296.239,
       "fontId" : 7,
-      "text" : "Final Race Classification"
+      "text" : "Timing Sheet"
     }, {
       "leftX" : 46.0058,
       "bottomY" : 320.6778,
@@ -186,43 +186,43 @@ const json = {
     }, {
       "leftX" : 118.5763,
       "bottomY" : 321.1782,
-      "rightX" : 340.2917,
+      "rightX" : 346.2975,
       "topY" : 310.3807,
       "baseLineY" : 318.7609,
       "fontId" : 7,
-      "text" : "ESP DOC 61 - Final Race Classification.pdf"
+      "text" : "HUN DOC 45 - Final Race Classification .pdf"
     }, {
       "leftX" : 46.0058,
       "bottomY" : 397.2521,
-      "rightX" : 102.0603,
-      "topY" : 386.4546,
-      "baseLineY" : 394.8348,
-      "fontId" : 6,
-      "text" : "Tim Mayer"
-    }, {
-      "leftX" : 300.2527,
-      "bottomY" : 397.2521,
-      "rightX" : 364.3149,
+      "rightX" : 110.068,
       "topY" : 386.4546,
       "baseLineY" : 394.8348,
       "fontId" : 6,
       "text" : "Nish Shetty"
     }, {
+      "leftX" : 300.2527,
+      "bottomY" : 397.2521,
+      "rightX" : 360.311,
+      "topY" : 386.4546,
+      "baseLineY" : 394.8348,
+      "fontId" : 6,
+      "text" : "Matt Selley"
+    }, {
       "leftX" : 46.0058,
       "bottomY" : 427.7818,
-      "rightX" : 115.0729,
+      "rightX" : 129.0865,
       "topY" : 416.9843,
       "baseLineY" : 425.3644,
       "fontId" : 6,
-      "text" : "Tonio Luizzi"
+      "text" : "Derek Warwick"
     }, {
       "leftX" : 300.2527,
       "bottomY" : 427.7818,
-      "rightX" : 385.3353,
+      "rightX" : 379.3295,
       "topY" : 416.9843,
       "baseLineY" : 425.3644,
       "fontId" : 6,
-      "text" : "David Domingo"
+      "text" : "Lajos Herczeg"
     }, {
       "leftX" : 46.0058,
       "bottomY" : 458.3114,
@@ -240,29 +240,29 @@ const json = {
     "trimBoxWidth" : 595.02001953125,
     "trimBoxHeight" : 841.0859985351562,
     "txtRns" : [ {
-      "leftX" : 418.8278,
-      "bottomY" : 123.0581,
-      "rightX" : 570.7719,
-      "topY" : 105.0581,
-      "baseLineY" : 119.6549,
+      "leftX" : 418.0588,
+      "bottomY" : 122.5851,
+      "rightX" : 570.0029,
+      "topY" : 104.5851,
+      "baseLineY" : 119.1819,
       "fontId" : 8,
-      "text" : "Doc 61 Time 19:55"
+      "text" : "Doc 45 Time 19:30"
     }, {
-      "leftX" : 76.0504,
+      "leftX" : 99.3621,
       "bottomY" : 143.9975,
-      "rightX" : 520.5382,
+      "rightX" : 495.6361,
       "topY" : 132.007,
       "baseLineY" : 142.199,
       "fontId" : 9,
-      "text" : "FORMULA 1 PIRELLI GRAN PREMIO DE ESPAÑA 2022 - Barcelona "
+      "text" : "FORMULA 1 ARAMCO MAGYAR NAGYDÍJ 2022 - Budapest "
     }, {
       "leftX" : 119.7952,
       "bottomY" : 166.0136,
-      "rightX" : 475.3375,
+      "rightX" : 475.4814,
       "topY" : 154.0231,
       "baseLineY" : 164.215,
       "fontId" : 10,
-      "text" : "Race Final Classification after 66 Laps - 308.424 km"
+      "text" : "Race Final Classification after 70 Laps - 306.630 km"
     }, {
       "leftX" : 40.7234,
       "bottomY" : 188.3097,
@@ -398,7 +398,7 @@ const json = {
       "topY" : 192.4689,
       "baseLineY" : 198.4281,
       "fontId" : 12,
-      "text" : "66"
+      "text" : "70"
     }, {
       "leftX" : 327.1536,
       "bottomY" : 200.4689,
@@ -406,7 +406,7 @@ const json = {
       "topY" : 192.4689,
       "baseLineY" : 198.4281,
       "fontId" : 12,
-      "text" : "1:37:20.475"
+      "text" : "1:39:35.912"
     }, {
       "leftX" : 454.6479,
       "bottomY" : 200.4689,
@@ -414,7 +414,7 @@ const json = {
       "topY" : 192.4689,
       "baseLineY" : 198.4281,
       "fontId" : 12,
-      "text" : "190.108"
+      "text" : "184.719"
     }, {
       "leftX" : 494.5079,
       "bottomY" : 200.4689,
@@ -422,7 +422,7 @@ const json = {
       "topY" : 192.4689,
       "baseLineY" : 198.4281,
       "fontId" : 12,
-      "text" : "1:25.456"
+      "text" : "1:22.126"
     }, {
       "leftX" : 536.7421,
       "bottomY" : 200.4689,
@@ -430,7 +430,7 @@ const json = {
       "topY" : 192.4689,
       "baseLineY" : 198.4281,
       "fontId" : 12,
-      "text" : "46"
+      "text" : "45"
     }, {
       "leftX" : 557.3201,
       "bottomY" : 200.4689,
@@ -454,23 +454,23 @@ const json = {
       "topY" : 204.6279,
       "baseLineY" : 210.5871,
       "fontId" : 11,
-      "text" : "11"
+      "text" : "44"
     }, {
       "leftX" : 60.8691,
       "bottomY" : 212.6279,
-      "rightX" : 107.3827,
+      "rightX" : 120.5798,
       "topY" : 204.6279,
       "baseLineY" : 210.5871,
       "fontId" : 11,
-      "text" : "Sergio PEREZ"
+      "text" : "Lewis HAMILTON"
     }, {
       "leftX" : 174.0453,
       "bottomY" : 212.6279,
-      "rightX" : 249.3512,
+      "rightX" : 290.4373,
       "topY" : 204.6279,
       "baseLineY" : 210.5871,
       "fontId" : 12,
-      "text" : "Oracle Red Bull Racing"
+      "text" : "Mercedes-AMG Petronas F1 Team"
     }, {
       "leftX" : 306.8636,
       "bottomY" : 212.6279,
@@ -478,7 +478,7 @@ const json = {
       "topY" : 204.6279,
       "baseLineY" : 210.5871,
       "fontId" : 12,
-      "text" : "66"
+      "text" : "70"
     }, {
       "leftX" : 327.1536,
       "bottomY" : 212.6279,
@@ -486,23 +486,23 @@ const json = {
       "topY" : 204.6279,
       "baseLineY" : 210.5871,
       "fontId" : 12,
-      "text" : "1:37:33.547"
+      "text" : "1:39:43.746"
     }, {
-      "leftX" : 380.1807,
+      "leftX" : 384.6407,
       "bottomY" : 212.6279,
-      "rightX" : 404.2888,
+      "rightX" : 404.2725,
       "topY" : 204.6279,
       "baseLineY" : 210.5871,
       "fontId" : 12,
-      "text" : "13.072"
+      "text" : "7.834"
     }, {
-      "leftX" : 418.3138,
+      "leftX" : 422.7748,
       "bottomY" : 212.6279,
-      "rightX" : 442.422,
+      "rightX" : 442.4066,
       "topY" : 204.6279,
       "baseLineY" : 210.5871,
       "fontId" : 12,
-      "text" : "13.072"
+      "text" : "7.834"
     }, {
       "leftX" : 454.6479,
       "bottomY" : 212.6279,
@@ -510,7 +510,7 @@ const json = {
       "topY" : 204.6279,
       "baseLineY" : 210.5871,
       "fontId" : 12,
-      "text" : "189.684"
+      "text" : "184.477"
     }, {
       "leftX" : 494.5079,
       "bottomY" : 212.6279,
@@ -518,7 +518,7 @@ const json = {
       "topY" : 204.6279,
       "baseLineY" : 210.5871,
       "fontId" : 12,
-      "text" : "1:24.108"
+      "text" : "1:21.386"
     }, {
       "leftX" : 536.7421,
       "bottomY" : 212.6279,
@@ -526,7 +526,7 @@ const json = {
       "topY" : 204.6279,
       "baseLineY" : 210.5871,
       "fontId" : 12,
-      "text" : "55"
+      "text" : "57"
     }, {
       "leftX" : 557.3201,
       "bottomY" : 212.6279,
@@ -574,7 +574,7 @@ const json = {
       "topY" : 216.7878,
       "baseLineY" : 222.7471,
       "fontId" : 12,
-      "text" : "66"
+      "text" : "70"
     }, {
       "leftX" : 327.1536,
       "bottomY" : 224.7878,
@@ -582,7 +582,7 @@ const json = {
       "topY" : 216.7878,
       "baseLineY" : 222.7471,
       "fontId" : 12,
-      "text" : "1:37:53.402"
+      "text" : "1:39:48.249"
     }, {
       "leftX" : 380.1807,
       "bottomY" : 224.7878,
@@ -590,15 +590,15 @@ const json = {
       "topY" : 216.7878,
       "baseLineY" : 222.7471,
       "fontId" : 12,
-      "text" : "32.927"
+      "text" : "12.337"
     }, {
-      "leftX" : 418.3138,
+      "leftX" : 422.7748,
       "bottomY" : 224.7878,
-      "rightX" : 442.422,
+      "rightX" : 442.4066,
       "topY" : 216.7878,
       "baseLineY" : 222.7471,
       "fontId" : 12,
-      "text" : "19.855"
+      "text" : "4.503"
     }, {
       "leftX" : 454.6479,
       "bottomY" : 224.7878,
@@ -606,7 +606,7 @@ const json = {
       "topY" : 216.7878,
       "baseLineY" : 222.7471,
       "fontId" : 12,
-      "text" : "189.043"
+      "text" : "184.339"
     }, {
       "leftX" : 494.5079,
       "bottomY" : 224.7878,
@@ -614,7 +614,7 @@ const json = {
       "topY" : 216.7878,
       "baseLineY" : 222.7471,
       "fontId" : 12,
-      "text" : "1:24.636"
+      "text" : "1:22.766"
     }, {
       "leftX" : 536.7421,
       "bottomY" : 224.7878,
@@ -622,7 +622,7 @@ const json = {
       "topY" : 216.7878,
       "baseLineY" : 222.7471,
       "fontId" : 12,
-      "text" : "53"
+      "text" : "57"
     }, {
       "leftX" : 557.3201,
       "bottomY" : 224.7878,
@@ -670,7 +670,7 @@ const json = {
       "topY" : 228.9469,
       "baseLineY" : 234.9061,
       "fontId" : 12,
-      "text" : "66"
+      "text" : "70"
     }, {
       "leftX" : 327.1536,
       "bottomY" : 236.9469,
@@ -678,7 +678,7 @@ const json = {
       "topY" : 228.9469,
       "baseLineY" : 234.9061,
       "fontId" : 12,
-      "text" : "1:38:05.683"
+      "text" : "1:39:50.491"
     }, {
       "leftX" : 380.1807,
       "bottomY" : 236.9469,
@@ -686,15 +686,15 @@ const json = {
       "topY" : 228.9469,
       "baseLineY" : 234.9061,
       "fontId" : 12,
-      "text" : "45.208"
+      "text" : "14.579"
     }, {
-      "leftX" : 418.3138,
+      "leftX" : 422.7748,
       "bottomY" : 236.9469,
-      "rightX" : 442.422,
+      "rightX" : 442.4066,
       "topY" : 228.9469,
       "baseLineY" : 234.9061,
       "fontId" : 12,
-      "text" : "12.281"
+      "text" : "2.242"
     }, {
       "leftX" : 454.6479,
       "bottomY" : 236.9469,
@@ -702,7 +702,7 @@ const json = {
       "topY" : 228.9469,
       "baseLineY" : 234.9061,
       "fontId" : 12,
-      "text" : "188.648"
+      "text" : "184.270"
     }, {
       "leftX" : 494.5079,
       "bottomY" : 236.9469,
@@ -710,7 +710,7 @@ const json = {
       "topY" : 228.9469,
       "baseLineY" : 234.9061,
       "fontId" : 12,
-      "text" : "1:25.985"
+      "text" : "1:22.000"
     }, {
       "leftX" : 536.7421,
       "bottomY" : 236.9469,
@@ -718,7 +718,7 @@ const json = {
       "topY" : 228.9469,
       "baseLineY" : 234.9061,
       "fontId" : 12,
-      "text" : "49"
+      "text" : "51"
     }, {
       "leftX" : 557.3201,
       "bottomY" : 236.9469,
@@ -742,23 +742,23 @@ const json = {
       "topY" : 241.107,
       "baseLineY" : 247.0662,
       "fontId" : 11,
-      "text" : "44"
+      "text" : "11"
     }, {
       "leftX" : 60.8691,
       "bottomY" : 249.107,
-      "rightX" : 120.5798,
+      "rightX" : 107.3827,
       "topY" : 241.107,
       "baseLineY" : 247.0662,
       "fontId" : 11,
-      "text" : "Lewis HAMILTON"
+      "text" : "Sergio PEREZ"
     }, {
       "leftX" : 174.0453,
       "bottomY" : 249.107,
-      "rightX" : 290.4373,
+      "rightX" : 249.3512,
       "topY" : 241.107,
       "baseLineY" : 247.0662,
       "fontId" : 12,
-      "text" : "Mercedes-AMG Petronas F1 Team"
+      "text" : "Oracle Red Bull Racing"
     }, {
       "leftX" : 306.8636,
       "bottomY" : 249.107,
@@ -766,7 +766,7 @@ const json = {
       "topY" : 241.107,
       "baseLineY" : 247.0662,
       "fontId" : 12,
-      "text" : "66"
+      "text" : "70"
     }, {
       "leftX" : 327.1536,
       "bottomY" : 249.107,
@@ -774,7 +774,7 @@ const json = {
       "topY" : 241.107,
       "baseLineY" : 247.0662,
       "fontId" : 12,
-      "text" : "1:38:15.009"
+      "text" : "1:39:51.600"
     }, {
       "leftX" : 380.1807,
       "bottomY" : 249.107,
@@ -782,7 +782,7 @@ const json = {
       "topY" : 241.107,
       "baseLineY" : 247.0662,
       "fontId" : 12,
-      "text" : "54.534"
+      "text" : "15.688"
     }, {
       "leftX" : 422.7748,
       "bottomY" : 249.107,
@@ -790,7 +790,7 @@ const json = {
       "topY" : 241.107,
       "baseLineY" : 247.0662,
       "fontId" : 12,
-      "text" : "9.326"
+      "text" : "1.109"
     }, {
       "leftX" : 454.6479,
       "bottomY" : 249.107,
@@ -798,7 +798,7 @@ const json = {
       "topY" : 241.107,
       "baseLineY" : 247.0662,
       "fontId" : 12,
-      "text" : "188.350"
+      "text" : "184.235"
     }, {
       "leftX" : 494.5079,
       "bottomY" : 249.107,
@@ -806,7 +806,7 @@ const json = {
       "topY" : 241.107,
       "baseLineY" : 247.0662,
       "fontId" : 12,
-      "text" : "1:24.253"
+      "text" : "1:21.940"
     }, {
       "leftX" : 536.7421,
       "bottomY" : 249.107,
@@ -814,7 +814,7 @@ const json = {
       "topY" : 241.107,
       "baseLineY" : 247.0662,
       "fontId" : 12,
-      "text" : "51"
+      "text" : "44"
     }, {
       "leftX" : 557.3201,
       "bottomY" : 249.107,
@@ -838,23 +838,23 @@ const json = {
       "topY" : 253.266,
       "baseLineY" : 259.2252,
       "fontId" : 11,
-      "text" : "77"
+      "text" : "16"
     }, {
       "leftX" : 60.8691,
       "bottomY" : 261.266,
-      "rightX" : 116.2714,
+      "rightX" : 118.4935,
       "topY" : 253.266,
       "baseLineY" : 259.2252,
       "fontId" : 11,
-      "text" : "Valtteri BOTTAS"
+      "text" : "Charles LECLERC"
     }, {
       "leftX" : 174.0453,
       "bottomY" : 261.266,
-      "rightX" : 269.8862,
+      "rightX" : 226.9456,
       "topY" : 253.266,
       "baseLineY" : 259.2252,
       "fontId" : 12,
-      "text" : "Alfa Romeo F1 Team ORLEN"
+      "text" : "Scuderia Ferrari"
     }, {
       "leftX" : 306.8636,
       "bottomY" : 261.266,
@@ -862,7 +862,7 @@ const json = {
       "topY" : 253.266,
       "baseLineY" : 259.2252,
       "fontId" : 12,
-      "text" : "66"
+      "text" : "70"
     }, {
       "leftX" : 327.1536,
       "bottomY" : 261.266,
@@ -870,7 +870,7 @@ const json = {
       "topY" : 253.266,
       "baseLineY" : 259.2252,
       "fontId" : 12,
-      "text" : "1:38:20.451"
+      "text" : "1:39:51.959"
     }, {
       "leftX" : 380.1807,
       "bottomY" : 261.266,
@@ -878,7 +878,7 @@ const json = {
       "topY" : 253.266,
       "baseLineY" : 259.2252,
       "fontId" : 12,
-      "text" : "59.976"
+      "text" : "16.047"
     }, {
       "leftX" : 422.7748,
       "bottomY" : 261.266,
@@ -886,7 +886,7 @@ const json = {
       "topY" : 253.266,
       "baseLineY" : 259.2252,
       "fontId" : 12,
-      "text" : "5.442"
+      "text" : "0.359"
     }, {
       "leftX" : 454.6479,
       "bottomY" : 261.266,
@@ -894,7 +894,7 @@ const json = {
       "topY" : 253.266,
       "baseLineY" : 259.2252,
       "fontId" : 12,
-      "text" : "188.176"
+      "text" : "184.224"
     }, {
       "leftX" : 494.5079,
       "bottomY" : 261.266,
@@ -902,7 +902,7 @@ const json = {
       "topY" : 253.266,
       "baseLineY" : 259.2252,
       "fontId" : 12,
-      "text" : "1:26.395"
+      "text" : "1:21.622"
     }, {
       "leftX" : 536.7421,
       "bottomY" : 261.266,
@@ -910,7 +910,7 @@ const json = {
       "topY" : 253.266,
       "baseLineY" : 259.2252,
       "fontId" : 12,
-      "text" : "36"
+      "text" : "57"
     }, {
       "leftX" : 561.7801,
       "bottomY" : 261.266,
@@ -921,98 +921,98 @@ const json = {
       "text" : "8 "
     }, {
       "leftX" : 31.4419,
-      "bottomY" : 273.425,
+      "bottomY" : 273.4261,
       "rightX" : 35.9182,
-      "topY" : 265.425,
-      "baseLineY" : 271.3842,
+      "topY" : 265.4261,
+      "baseLineY" : 271.3853,
       "fontId" : 12,
       "text" : "7"
     }, {
-      "leftX" : 44.8964,
-      "bottomY" : 273.425,
-      "rightX" : 53.849,
-      "topY" : 265.425,
-      "baseLineY" : 271.3842,
+      "leftX" : 49.3573,
+      "bottomY" : 273.4261,
+      "rightX" : 53.8336,
+      "topY" : 265.4261,
+      "baseLineY" : 271.3853,
       "fontId" : 11,
-      "text" : "31"
+      "text" : "4"
     }, {
       "leftX" : 60.8691,
-      "bottomY" : 273.425,
-      "rightX" : 110.9717,
-      "topY" : 265.425,
-      "baseLineY" : 271.3842,
+      "bottomY" : 273.4261,
+      "rightX" : 110.8438,
+      "topY" : 265.4261,
+      "baseLineY" : 271.3853,
       "fontId" : 11,
-      "text" : "Esteban OCON"
+      "text" : "Lando NORRIS"
     }, {
       "leftX" : 174.0453,
-      "bottomY" : 273.425,
-      "rightX" : 244.0435,
-      "topY" : 265.425,
-      "baseLineY" : 271.3842,
+      "bottomY" : 273.4261,
+      "rightX" : 234.2996,
+      "topY" : 265.4261,
+      "baseLineY" : 271.3853,
       "fontId" : 12,
-      "text" : "BWT Alpine F1 Team"
+      "text" : "McLaren F1 Team"
     }, {
       "leftX" : 306.8636,
-      "bottomY" : 273.425,
+      "bottomY" : 273.4261,
       "rightX" : 315.8162,
-      "topY" : 265.425,
-      "baseLineY" : 271.3842,
+      "topY" : 265.4261,
+      "baseLineY" : 271.3853,
       "fontId" : 12,
-      "text" : "66"
+      "text" : "70"
     }, {
       "leftX" : 327.1536,
-      "bottomY" : 273.425,
+      "bottomY" : 273.4261,
       "rightX" : 368.1598,
-      "topY" : 265.425,
-      "baseLineY" : 271.3842,
+      "topY" : 265.4261,
+      "baseLineY" : 271.3853,
       "fontId" : 12,
-      "text" : "1:38:35.872"
+      "text" : "1:40:54.212"
     }, {
       "leftX" : 380.1807,
-      "bottomY" : 273.425,
+      "bottomY" : 273.4261,
       "rightX" : 404.2888,
-      "topY" : 265.425,
-      "baseLineY" : 271.3842,
+      "topY" : 265.4261,
+      "baseLineY" : 271.3853,
       "fontId" : 12,
-      "text" : "75.397"
+      "text" : "78.300"
     }, {
       "leftX" : 418.3138,
-      "bottomY" : 273.425,
+      "bottomY" : 273.4261,
       "rightX" : 442.422,
-      "topY" : 265.425,
-      "baseLineY" : 271.3842,
+      "topY" : 265.4261,
+      "baseLineY" : 271.3853,
       "fontId" : 12,
-      "text" : "15.421"
+      "text" : "62.253"
     }, {
       "leftX" : 454.6479,
-      "bottomY" : 273.425,
+      "bottomY" : 273.4261,
       "rightX" : 483.2324,
-      "topY" : 265.425,
-      "baseLineY" : 271.3842,
+      "topY" : 265.4261,
+      "baseLineY" : 271.3853,
       "fontId" : 12,
-      "text" : "187.686"
+      "text" : "182.330"
     }, {
       "leftX" : 494.5079,
-      "bottomY" : 273.425,
+      "bottomY" : 273.4261,
       "rightX" : 524.8269,
-      "topY" : 265.425,
-      "baseLineY" : 271.3842,
+      "topY" : 265.4261,
+      "baseLineY" : 271.3853,
       "fontId" : 12,
-      "text" : "1:25.935"
+      "text" : "1:23.043"
     }, {
       "leftX" : 536.7421,
-      "bottomY" : 273.425,
+      "bottomY" : 273.4261,
       "rightX" : 545.6948,
-      "topY" : 265.425,
-      "baseLineY" : 271.3842,
+      "topY" : 265.4261,
+      "baseLineY" : 271.3853,
       "fontId" : 12,
-      "text" : "54"
+      "text" : "47"
     }, {
       "leftX" : 561.7801,
-      "bottomY" : 273.425,
+      "bottomY" : 273.4261,
       "rightX" : 568.015,
-      "topY" : 265.425,
-      "baseLineY" : 271.3842,
+      "topY" : 265.4261,
+      "baseLineY" : 271.3853,
       "fontId" : 12,
       "text" : "6 "
     }, {
@@ -1024,29 +1024,29 @@ const json = {
       "fontId" : 12,
       "text" : "8"
     }, {
-      "leftX" : 49.3573,
+      "leftX" : 44.8964,
       "bottomY" : 285.5851,
-      "rightX" : 53.8336,
+      "rightX" : 53.849,
       "topY" : 277.5851,
       "baseLineY" : 283.5443,
       "fontId" : 11,
-      "text" : "4"
+      "text" : "14"
     }, {
       "leftX" : 60.8691,
       "bottomY" : 285.5851,
-      "rightX" : 110.8438,
+      "rightX" : 124.3847,
       "topY" : 277.5851,
       "baseLineY" : 283.5443,
       "fontId" : 11,
-      "text" : "Lando NORRIS"
+      "text" : "Fernando ALONSO"
     }, {
       "leftX" : 174.0453,
       "bottomY" : 285.5851,
-      "rightX" : 234.2996,
+      "rightX" : 244.0435,
       "topY" : 277.5851,
       "baseLineY" : 283.5443,
       "fontId" : 12,
-      "text" : "McLaren F1 Team"
+      "text" : "BWT Alpine F1 Team"
     }, {
       "leftX" : 306.8636,
       "bottomY" : 285.5851,
@@ -1054,7 +1054,7 @@ const json = {
       "topY" : 277.5851,
       "baseLineY" : 283.5443,
       "fontId" : 12,
-      "text" : "66"
+      "text" : "69"
     }, {
       "leftX" : 327.1536,
       "bottomY" : 285.5851,
@@ -1062,23 +1062,23 @@ const json = {
       "topY" : 277.5851,
       "baseLineY" : 283.5443,
       "fontId" : 12,
-      "text" : "1:38:43.710"
+      "text" : "1:39:44.126"
     }, {
-      "leftX" : 380.1807,
+      "leftX" : 384.7127,
       "bottomY" : 285.5851,
-      "rightX" : 404.2888,
+      "rightX" : 404.2805,
       "topY" : 277.5851,
       "baseLineY" : 283.5443,
       "fontId" : 12,
-      "text" : "83.235"
+      "text" : "1 LAP"
     }, {
-      "leftX" : 422.7748,
+      "leftX" : 422.8458,
       "bottomY" : 285.5851,
-      "rightX" : 442.4066,
+      "rightX" : 442.4136,
       "topY" : 277.5851,
       "baseLineY" : 283.5443,
       "fontId" : 12,
-      "text" : "7.838"
+      "text" : "1 LAP"
     }, {
       "leftX" : 454.6479,
       "bottomY" : 285.5851,
@@ -1086,7 +1086,7 @@ const json = {
       "topY" : 277.5851,
       "baseLineY" : 283.5443,
       "fontId" : 12,
-      "text" : "187.437"
+      "text" : "181.830"
     }, {
       "leftX" : 494.5079,
       "bottomY" : 285.5851,
@@ -1094,7 +1094,7 @@ const json = {
       "topY" : 277.5851,
       "baseLineY" : 283.5443,
       "fontId" : 12,
-      "text" : "1:25.619"
+      "text" : "1:23.979"
     }, {
       "leftX" : 536.7421,
       "bottomY" : 285.5851,
@@ -1102,7 +1102,7 @@ const json = {
       "topY" : 277.5851,
       "baseLineY" : 283.5443,
       "fontId" : 12,
-      "text" : "53"
+      "text" : "47"
     }, {
       "leftX" : 561.7801,
       "bottomY" : 285.5851,
@@ -1126,15 +1126,15 @@ const json = {
       "topY" : 289.7439,
       "baseLineY" : 295.7032,
       "fontId" : 11,
-      "text" : "14"
+      "text" : "31"
     }, {
       "leftX" : 60.8691,
       "bottomY" : 297.7439,
-      "rightX" : 124.3847,
+      "rightX" : 110.9717,
       "topY" : 289.7439,
       "baseLineY" : 295.7032,
       "fontId" : 11,
-      "text" : "Fernando ALONSO"
+      "text" : "Esteban OCON"
     }, {
       "leftX" : 174.0453,
       "bottomY" : 297.7439,
@@ -1150,7 +1150,7 @@ const json = {
       "topY" : 289.7439,
       "baseLineY" : 295.7032,
       "fontId" : 12,
-      "text" : "65"
+      "text" : "69"
     }, {
       "leftX" : 327.1536,
       "bottomY" : 297.7439,
@@ -1158,7 +1158,7 @@ const json = {
       "topY" : 289.7439,
       "baseLineY" : 295.7032,
       "fontId" : 12,
-      "text" : "1:37:27.322"
+      "text" : "1:39:47.000"
     }, {
       "leftX" : 384.7127,
       "bottomY" : 297.7439,
@@ -1168,13 +1168,13 @@ const json = {
       "fontId" : 12,
       "text" : "1 LAP"
     }, {
-      "leftX" : 422.8458,
+      "leftX" : 422.7748,
       "bottomY" : 297.7439,
-      "rightX" : 442.4136,
+      "rightX" : 442.4066,
       "topY" : 289.7439,
       "baseLineY" : 295.7032,
       "fontId" : 12,
-      "text" : "1 LAP"
+      "text" : "2.874"
     }, {
       "leftX" : 454.6479,
       "bottomY" : 297.7439,
@@ -1182,7 +1182,7 @@ const json = {
       "topY" : 289.7439,
       "baseLineY" : 295.7032,
       "fontId" : 12,
-      "text" : "187.008"
+      "text" : "181.743"
     }, {
       "leftX" : 494.5079,
       "bottomY" : 297.7439,
@@ -1190,7 +1190,7 @@ const json = {
       "topY" : 289.7439,
       "baseLineY" : 295.7032,
       "fontId" : 12,
-      "text" : "1:26.599"
+      "text" : "1:24.149"
     }, {
       "leftX" : 536.7421,
       "bottomY" : 297.7439,
@@ -1198,7 +1198,7 @@ const json = {
       "topY" : 289.7439,
       "baseLineY" : 295.7032,
       "fontId" : 12,
-      "text" : "56"
+      "text" : "60"
     }, {
       "leftX" : 561.7801,
       "bottomY" : 297.7439,
@@ -1216,29 +1216,29 @@ const json = {
       "fontId" : 12,
       "text" : "10"
     }, {
-      "leftX" : 44.8964,
+      "leftX" : 49.3573,
       "bottomY" : 309.904,
-      "rightX" : 53.849,
+      "rightX" : 53.8336,
       "topY" : 301.904,
       "baseLineY" : 307.8633,
       "fontId" : 11,
-      "text" : "22"
+      "text" : "5"
     }, {
       "leftX" : 60.8691,
       "bottomY" : 309.904,
-      "rightX" : 112.1228,
+      "rightX" : 122.5941,
       "topY" : 301.904,
       "baseLineY" : 307.8633,
       "fontId" : 11,
-      "text" : "Yuki TSUNODA"
+      "text" : "Sebastian VETTEL"
     }, {
       "leftX" : 174.0453,
-      "bottomY" : 309.904,
-      "rightX" : 240.7422,
-      "topY" : 301.904,
-      "baseLineY" : 307.8633,
-      "fontId" : 12,
-      "text" : "Scuderia AlphaTauri"
+      "bottomY" : 308.2819,
+      "rightX" : 291.2896,
+      "topY" : 301.2819,
+      "baseLineY" : 306.4963,
+      "fontId" : 13,
+      "text" : "Aston Martin Aramco Cognizant F1 Team"
     }, {
       "leftX" : 306.8636,
       "bottomY" : 309.904,
@@ -1246,7 +1246,7 @@ const json = {
       "topY" : 301.904,
       "baseLineY" : 307.8633,
       "fontId" : 12,
-      "text" : "65"
+      "text" : "69"
     }, {
       "leftX" : 327.1536,
       "bottomY" : 309.904,
@@ -1254,7 +1254,7 @@ const json = {
       "topY" : 301.904,
       "baseLineY" : 307.8633,
       "fontId" : 12,
-      "text" : "1:37:31.120"
+      "text" : "1:39:47.143"
     }, {
       "leftX" : 384.7127,
       "bottomY" : 309.904,
@@ -1270,7 +1270,7 @@ const json = {
       "topY" : 301.904,
       "baseLineY" : 307.8633,
       "fontId" : 12,
-      "text" : "3.798"
+      "text" : "0.143"
     }, {
       "leftX" : 454.6479,
       "bottomY" : 309.904,
@@ -1278,7 +1278,7 @@ const json = {
       "topY" : 301.904,
       "baseLineY" : 307.8633,
       "fontId" : 12,
-      "text" : "186.886"
+      "text" : "181.738"
     }, {
       "leftX" : 494.5079,
       "bottomY" : 309.904,
@@ -1286,7 +1286,7 @@ const json = {
       "topY" : 301.904,
       "baseLineY" : 307.8633,
       "fontId" : 12,
-      "text" : "1:26.828"
+      "text" : "1:22.824"
     }, {
       "leftX" : 536.7421,
       "bottomY" : 309.904,
@@ -1294,7 +1294,7 @@ const json = {
       "topY" : 301.904,
       "baseLineY" : 307.8633,
       "fontId" : 12,
-      "text" : "59"
+      "text" : "51"
     }, {
       "leftX" : 561.7801,
       "bottomY" : 309.904,
@@ -1312,21 +1312,21 @@ const json = {
       "fontId" : 12,
       "text" : "11"
     }, {
-      "leftX" : 49.3573,
+      "leftX" : 44.8964,
       "bottomY" : 322.063,
-      "rightX" : 53.8336,
+      "rightX" : 53.849,
       "topY" : 314.063,
       "baseLineY" : 320.0223,
       "fontId" : 11,
-      "text" : "5"
+      "text" : "18"
     }, {
       "leftX" : 60.8691,
       "bottomY" : 322.063,
-      "rightX" : 122.5941,
+      "rightX" : 108.8135,
       "topY" : 314.063,
       "baseLineY" : 320.0223,
       "fontId" : 11,
-      "text" : "Sebastian VETTEL"
+      "text" : "Lance STROLL"
     }, {
       "leftX" : 174.0453,
       "bottomY" : 320.4409,
@@ -1342,7 +1342,7 @@ const json = {
       "topY" : 314.063,
       "baseLineY" : 320.0223,
       "fontId" : 12,
-      "text" : "65"
+      "text" : "69"
     }, {
       "leftX" : 327.1536,
       "bottomY" : 322.063,
@@ -1350,7 +1350,7 @@ const json = {
       "topY" : 314.063,
       "baseLineY" : 320.0223,
       "fontId" : 12,
-      "text" : "1:37:47.098"
+      "text" : "1:39:54.754"
     }, {
       "leftX" : 384.7127,
       "bottomY" : 322.063,
@@ -1360,13 +1360,13 @@ const json = {
       "fontId" : 12,
       "text" : "1 LAP"
     }, {
-      "leftX" : 418.3138,
+      "leftX" : 422.7748,
       "bottomY" : 322.063,
-      "rightX" : 442.422,
+      "rightX" : 442.4066,
       "topY" : 314.063,
       "baseLineY" : 320.0223,
       "fontId" : 12,
-      "text" : "15.978"
+      "text" : "7.611"
     }, {
       "leftX" : 454.6479,
       "bottomY" : 322.063,
@@ -1374,7 +1374,7 @@ const json = {
       "topY" : 314.063,
       "baseLineY" : 320.0223,
       "fontId" : 12,
-      "text" : "186.377"
+      "text" : "181.508"
     }, {
       "leftX" : 494.5079,
       "bottomY" : 322.063,
@@ -1382,7 +1382,7 @@ const json = {
       "topY" : 314.063,
       "baseLineY" : 320.0223,
       "fontId" : 12,
-      "text" : "1:27.629"
+      "text" : "1:22.437"
     }, {
       "leftX" : 536.7421,
       "bottomY" : 322.063,
@@ -1390,7 +1390,7 @@ const json = {
       "topY" : 314.063,
       "baseLineY" : 320.0223,
       "fontId" : 12,
-      "text" : "59 "
+      "text" : "51 "
     }, {
       "leftX" : 26.981,
       "bottomY" : 334.2231,
@@ -1400,29 +1400,29 @@ const json = {
       "fontId" : 12,
       "text" : "12"
     }, {
-      "leftX" : 49.3573,
+      "leftX" : 44.8964,
       "bottomY" : 334.2231,
-      "rightX" : 53.8336,
+      "rightX" : 53.849,
       "topY" : 326.2231,
       "baseLineY" : 332.1823,
       "fontId" : 11,
-      "text" : "3"
+      "text" : "10"
     }, {
       "leftX" : 60.8691,
       "bottomY" : 334.2231,
-      "rightX" : 122.8179,
+      "rightX" : 105.768,
       "topY" : 326.2231,
       "baseLineY" : 332.1823,
       "fontId" : 11,
-      "text" : "Daniel RICCIARDO"
+      "text" : "Pierre GASLY"
     }, {
       "leftX" : 174.0453,
       "bottomY" : 334.2231,
-      "rightX" : 234.2996,
+      "rightX" : 240.7422,
       "topY" : 326.2231,
       "baseLineY" : 332.1823,
       "fontId" : 12,
-      "text" : "McLaren F1 Team"
+      "text" : "Scuderia AlphaTauri"
     }, {
       "leftX" : 306.8636,
       "bottomY" : 334.2231,
@@ -1430,7 +1430,7 @@ const json = {
       "topY" : 326.2231,
       "baseLineY" : 332.1823,
       "fontId" : 12,
-      "text" : "65"
+      "text" : "69"
     }, {
       "leftX" : 327.1536,
       "bottomY" : 334.2231,
@@ -1438,7 +1438,7 @@ const json = {
       "topY" : 326.2231,
       "baseLineY" : 332.1823,
       "fontId" : 12,
-      "text" : "1:38:00.152"
+      "text" : "1:40:07.702"
     }, {
       "leftX" : 384.7127,
       "bottomY" : 334.2231,
@@ -1454,7 +1454,7 @@ const json = {
       "topY" : 326.2231,
       "baseLineY" : 332.1823,
       "fontId" : 12,
-      "text" : "13.054"
+      "text" : "12.948"
     }, {
       "leftX" : 454.6479,
       "bottomY" : 334.2231,
@@ -1462,7 +1462,7 @@ const json = {
       "topY" : 326.2231,
       "baseLineY" : 332.1823,
       "fontId" : 12,
-      "text" : "185.963"
+      "text" : "181.116"
     }, {
       "leftX" : 494.5079,
       "bottomY" : 334.2231,
@@ -1470,7 +1470,7 @@ const json = {
       "topY" : 326.2231,
       "baseLineY" : 332.1823,
       "fontId" : 12,
-      "text" : "1:27.285"
+      "text" : "1:23.199"
     }, {
       "leftX" : 536.7421,
       "bottomY" : 334.2231,
@@ -1478,7 +1478,7 @@ const json = {
       "topY" : 326.2231,
       "baseLineY" : 332.1823,
       "fontId" : 12,
-      "text" : "54 "
+      "text" : "58 "
     }, {
       "leftX" : 26.981,
       "bottomY" : 346.3822,
@@ -1494,23 +1494,23 @@ const json = {
       "topY" : 338.3822,
       "baseLineY" : 344.3414,
       "fontId" : 11,
-      "text" : "10"
+      "text" : "24"
     }, {
       "leftX" : 60.8691,
       "bottomY" : 346.3822,
-      "rightX" : 105.768,
+      "rightX" : 108.9574,
       "topY" : 338.3822,
       "baseLineY" : 344.3414,
       "fontId" : 11,
-      "text" : "Pierre GASLY"
+      "text" : "ZHOU Guanyu"
     }, {
       "leftX" : 174.0453,
       "bottomY" : 346.3822,
-      "rightX" : 240.7422,
+      "rightX" : 269.8862,
       "topY" : 338.3822,
       "baseLineY" : 344.3414,
       "fontId" : 12,
-      "text" : "Scuderia AlphaTauri"
+      "text" : "Alfa Romeo F1 Team ORLEN"
     }, {
       "leftX" : 306.8636,
       "bottomY" : 346.3822,
@@ -1518,7 +1518,7 @@ const json = {
       "topY" : 338.3822,
       "baseLineY" : 344.3414,
       "fontId" : 12,
-      "text" : "65"
+      "text" : "69"
     }, {
       "leftX" : 327.1536,
       "bottomY" : 346.3822,
@@ -1526,7 +1526,7 @@ const json = {
       "topY" : 338.3822,
       "baseLineY" : 344.3414,
       "fontId" : 12,
-      "text" : "1:38:01.422"
+      "text" : "1:40:13.127"
     }, {
       "leftX" : 384.7127,
       "bottomY" : 346.3822,
@@ -1542,7 +1542,7 @@ const json = {
       "topY" : 338.3822,
       "baseLineY" : 344.3414,
       "fontId" : 12,
-      "text" : "1.270"
+      "text" : "5.425"
     }, {
       "leftX" : 454.6479,
       "bottomY" : 346.3822,
@@ -1550,7 +1550,7 @@ const json = {
       "topY" : 338.3822,
       "baseLineY" : 344.3414,
       "fontId" : 12,
-      "text" : "185.923"
+      "text" : "180.953"
     }, {
       "leftX" : 494.5079,
       "bottomY" : 346.3822,
@@ -1558,7 +1558,7 @@ const json = {
       "topY" : 338.3822,
       "baseLineY" : 344.3414,
       "fontId" : 12,
-      "text" : "1:26.987"
+      "text" : "1:22.029"
     }, {
       "leftX" : 536.7421,
       "bottomY" : 346.3822,
@@ -1566,7 +1566,7 @@ const json = {
       "topY" : 338.3822,
       "baseLineY" : 344.3414,
       "fontId" : 12,
-      "text" : "51 "
+      "text" : "58 "
     }, {
       "leftX" : 26.981,
       "bottomY" : 358.5412,
@@ -1606,7 +1606,7 @@ const json = {
       "topY" : 350.5412,
       "baseLineY" : 356.5004,
       "fontId" : 12,
-      "text" : "65"
+      "text" : "69"
     }, {
       "leftX" : 327.1536,
       "bottomY" : 358.5412,
@@ -1614,7 +1614,7 @@ const json = {
       "topY" : 350.5412,
       "baseLineY" : 356.5004,
       "fontId" : 12,
-      "text" : "1:38:03.918"
+      "text" : "1:40:13.414"
     }, {
       "leftX" : 384.7127,
       "bottomY" : 358.5412,
@@ -1630,7 +1630,7 @@ const json = {
       "topY" : 350.5412,
       "baseLineY" : 356.5004,
       "fontId" : 12,
-      "text" : "2.496"
+      "text" : "0.287"
     }, {
       "leftX" : 454.6479,
       "bottomY" : 358.5412,
@@ -1638,7 +1638,7 @@ const json = {
       "topY" : 350.5412,
       "baseLineY" : 356.5004,
       "fontId" : 12,
-      "text" : "185.844"
+      "text" : "180.944"
     }, {
       "leftX" : 494.5079,
       "bottomY" : 358.5412,
@@ -1646,7 +1646,7 @@ const json = {
       "topY" : 350.5412,
       "baseLineY" : 356.5004,
       "fontId" : 12,
-      "text" : "1:27.447"
+      "text" : "1:23.151"
     }, {
       "leftX" : 536.7421,
       "bottomY" : 358.5412,
@@ -1654,7 +1654,7 @@ const json = {
       "topY" : 350.5412,
       "baseLineY" : 356.5004,
       "fontId" : 12,
-      "text" : "32 "
+      "text" : "50 "
     }, {
       "leftX" : 26.981,
       "bottomY" : 370.7012,
@@ -1664,29 +1664,29 @@ const json = {
       "fontId" : 12,
       "text" : "15"
     }, {
-      "leftX" : 44.8964,
+      "leftX" : 49.3573,
       "bottomY" : 370.7012,
-      "rightX" : 53.849,
+      "rightX" : 53.8336,
       "topY" : 362.7012,
       "baseLineY" : 368.6604,
       "fontId" : 11,
-      "text" : "18"
+      "text" : "3"
     }, {
       "leftX" : 60.8691,
       "bottomY" : 370.7012,
-      "rightX" : 108.8135,
+      "rightX" : 127.9737,
       "topY" : 362.7012,
       "baseLineY" : 368.6604,
       "fontId" : 11,
-      "text" : "Lance STROLL"
+      "text" : "Daniel RICCIARDO *"
     }, {
       "leftX" : 174.0453,
-      "bottomY" : 369.0791,
-      "rightX" : 291.2896,
-      "topY" : 362.0791,
-      "baseLineY" : 367.2934,
-      "fontId" : 13,
-      "text" : "Aston Martin Aramco Cognizant F1 Team"
+      "bottomY" : 370.7012,
+      "rightX" : 234.2996,
+      "topY" : 362.7012,
+      "baseLineY" : 368.6604,
+      "fontId" : 12,
+      "text" : "McLaren F1 Team"
     }, {
       "leftX" : 306.8636,
       "bottomY" : 370.7012,
@@ -1694,7 +1694,7 @@ const json = {
       "topY" : 362.7012,
       "baseLineY" : 368.6604,
       "fontId" : 12,
-      "text" : "65"
+      "text" : "69"
     }, {
       "leftX" : 327.1536,
       "bottomY" : 370.7012,
@@ -1702,7 +1702,7 @@ const json = {
       "topY" : 362.7012,
       "baseLineY" : 368.6604,
       "fontId" : 12,
-      "text" : "1:38:22.806"
+      "text" : "1:40:17.349"
     }, {
       "leftX" : 384.7127,
       "bottomY" : 370.7012,
@@ -1712,13 +1712,13 @@ const json = {
       "fontId" : 12,
       "text" : "1 LAP"
     }, {
-      "leftX" : 418.3138,
+      "leftX" : 422.7748,
       "bottomY" : 370.7012,
-      "rightX" : 442.422,
+      "rightX" : 442.4066,
       "topY" : 362.7012,
       "baseLineY" : 368.6604,
       "fontId" : 12,
-      "text" : "18.888"
+      "text" : "3.935"
     }, {
       "leftX" : 454.6479,
       "bottomY" : 370.7012,
@@ -1726,7 +1726,7 @@ const json = {
       "topY" : 362.7012,
       "baseLineY" : 368.6604,
       "fontId" : 12,
-      "text" : "185.250"
+      "text" : "180.826"
     }, {
       "leftX" : 494.5079,
       "bottomY" : 370.7012,
@@ -1734,7 +1734,7 @@ const json = {
       "topY" : 362.7012,
       "baseLineY" : 368.6604,
       "fontId" : 12,
-      "text" : "1:26.876"
+      "text" : "1:23.654"
     }, {
       "leftX" : 536.7421,
       "bottomY" : 370.7012,
@@ -1742,7 +1742,7 @@ const json = {
       "topY" : 362.7012,
       "baseLineY" : 368.6604,
       "fontId" : 12,
-      "text" : "54 "
+      "text" : "63 "
     }, {
       "leftX" : 26.981,
       "bottomY" : 382.8603,
@@ -1752,29 +1752,29 @@ const json = {
       "fontId" : 12,
       "text" : "16"
     }, {
-      "leftX" : 49.3573,
+      "leftX" : 44.8964,
       "bottomY" : 382.8603,
-      "rightX" : 53.8336,
+      "rightX" : 53.849,
       "topY" : 374.8603,
       "baseLineY" : 380.8195,
       "fontId" : 11,
-      "text" : "6"
+      "text" : "20"
     }, {
       "leftX" : 60.8691,
       "bottomY" : 382.8603,
-      "rightX" : 114.0891,
+      "rightX" : 127.8938,
       "topY" : 374.8603,
       "baseLineY" : 380.8195,
       "fontId" : 11,
-      "text" : "Nicholas LATIFI"
+      "text" : "Kevin MAGNUSSEN"
     }, {
       "leftX" : 174.0453,
       "bottomY" : 382.8603,
-      "rightX" : 227.0495,
+      "rightX" : 222.2935,
       "topY" : 374.8603,
       "baseLineY" : 380.8195,
       "fontId" : 12,
-      "text" : "Williams Racing"
+      "text" : "Haas F1 Team"
     }, {
       "leftX" : 306.8636,
       "bottomY" : 382.8603,
@@ -1782,7 +1782,7 @@ const json = {
       "topY" : 374.8603,
       "baseLineY" : 380.8195,
       "fontId" : 12,
-      "text" : "64"
+      "text" : "69"
     }, {
       "leftX" : 327.1536,
       "bottomY" : 382.8603,
@@ -1790,23 +1790,23 @@ const json = {
       "topY" : 374.8603,
       "baseLineY" : 380.8195,
       "fontId" : 12,
-      "text" : "1:37:24.931"
+      "text" : "1:40:41.936"
     }, {
-      "leftX" : 380.3957,
+      "leftX" : 384.7127,
       "bottomY" : 382.8603,
-      "rightX" : 404.296,
-      "topY" : 374.8603,
-      "baseLineY" : 380.8195,
-      "fontId" : 12,
-      "text" : "2 LAPS"
-    }, {
-      "leftX" : 422.8458,
-      "bottomY" : 382.8603,
-      "rightX" : 442.4136,
+      "rightX" : 404.2805,
       "topY" : 374.8603,
       "baseLineY" : 380.8195,
       "fontId" : 12,
       "text" : "1 LAP"
+    }, {
+      "leftX" : 418.3138,
+      "bottomY" : 382.8603,
+      "rightX" : 442.422,
+      "topY" : 374.8603,
+      "baseLineY" : 380.8195,
+      "fontId" : 12,
+      "text" : "24.587"
     }, {
       "leftX" : 454.6479,
       "bottomY" : 382.8603,
@@ -1814,7 +1814,7 @@ const json = {
       "topY" : 374.8603,
       "baseLineY" : 380.8195,
       "fontId" : 12,
-      "text" : "184.205"
+      "text" : "180.090"
     }, {
       "leftX" : 494.5079,
       "bottomY" : 382.8603,
@@ -1822,7 +1822,7 @@ const json = {
       "topY" : 374.8603,
       "baseLineY" : 380.8195,
       "fontId" : 12,
-      "text" : "1:27.246"
+      "text" : "1:23.511"
     }, {
       "leftX" : 536.7421,
       "bottomY" : 382.8603,
@@ -1830,7 +1830,7 @@ const json = {
       "topY" : 374.8603,
       "baseLineY" : 380.8195,
       "fontId" : 12,
-      "text" : "52 "
+      "text" : "37 "
     }, {
       "leftX" : 26.981,
       "bottomY" : 395.0203,
@@ -1846,23 +1846,23 @@ const json = {
       "topY" : 387.0203,
       "baseLineY" : 392.9795,
       "fontId" : 11,
-      "text" : "20"
+      "text" : "23"
     }, {
       "leftX" : 60.8691,
       "bottomY" : 395.0203,
-      "rightX" : 127.8938,
+      "rightX" : 121.6109,
       "topY" : 387.0203,
       "baseLineY" : 392.9795,
       "fontId" : 11,
-      "text" : "Kevin MAGNUSSEN"
+      "text" : "Alexander ALBON"
     }, {
       "leftX" : 174.0453,
       "bottomY" : 395.0203,
-      "rightX" : 222.2935,
+      "rightX" : 227.0495,
       "topY" : 387.0203,
       "baseLineY" : 392.9795,
       "fontId" : 12,
-      "text" : "Haas F1 Team"
+      "text" : "Williams Racing"
     }, {
       "leftX" : 306.8636,
       "bottomY" : 395.0203,
@@ -1870,7 +1870,7 @@ const json = {
       "topY" : 387.0203,
       "baseLineY" : 392.9795,
       "fontId" : 12,
-      "text" : "64"
+      "text" : "69"
     }, {
       "leftX" : 327.1536,
       "bottomY" : 395.0203,
@@ -1878,15 +1878,15 @@ const json = {
       "topY" : 387.0203,
       "baseLineY" : 392.9795,
       "fontId" : 12,
-      "text" : "1:37:33.131"
+      "text" : "1:40:42.786"
     }, {
-      "leftX" : 380.3957,
+      "leftX" : 384.7127,
       "bottomY" : 395.0203,
-      "rightX" : 404.296,
+      "rightX" : 404.2805,
       "topY" : 387.0203,
       "baseLineY" : 392.9795,
       "fontId" : 12,
-      "text" : "2 LAPS"
+      "text" : "1 LAP"
     }, {
       "leftX" : 422.7748,
       "bottomY" : 395.0203,
@@ -1894,7 +1894,7 @@ const json = {
       "topY" : 387.0203,
       "baseLineY" : 392.9795,
       "fontId" : 12,
-      "text" : "8.200"
+      "text" : "0.850"
     }, {
       "leftX" : 454.6479,
       "bottomY" : 395.0203,
@@ -1902,7 +1902,7 @@ const json = {
       "topY" : 387.0203,
       "baseLineY" : 392.9795,
       "fontId" : 12,
-      "text" : "183.947"
+      "text" : "180.065"
     }, {
       "leftX" : 494.5079,
       "bottomY" : 395.0203,
@@ -1910,15 +1910,15 @@ const json = {
       "topY" : 387.0203,
       "baseLineY" : 392.9795,
       "fontId" : 12,
-      "text" : "1:27.537"
+      "text" : "1:23.047"
     }, {
-      "leftX" : 541.2031,
+      "leftX" : 536.7421,
       "bottomY" : 395.0203,
-      "rightX" : 547.438,
+      "rightX" : 547.4533,
       "topY" : 387.0203,
       "baseLineY" : 392.9795,
       "fontId" : 12,
-      "text" : "3 "
+      "text" : "43 "
     }, {
       "leftX" : 26.981,
       "bottomY" : 407.1793,
@@ -1928,21 +1928,21 @@ const json = {
       "fontId" : 12,
       "text" : "18"
     }, {
-      "leftX" : 44.8964,
+      "leftX" : 49.3573,
       "bottomY" : 407.1793,
-      "rightX" : 53.849,
+      "rightX" : 53.8336,
       "topY" : 399.1793,
       "baseLineY" : 405.1385,
       "fontId" : 11,
-      "text" : "23"
+      "text" : "6"
     }, {
       "leftX" : 60.8691,
       "bottomY" : 407.1793,
-      "rightX" : 126.7667,
+      "rightX" : 114.0891,
       "topY" : 399.1793,
       "baseLineY" : 405.1385,
       "fontId" : 11,
-      "text" : "Alexander ALBON *"
+      "text" : "Nicholas LATIFI"
     }, {
       "leftX" : 174.0453,
       "bottomY" : 407.1793,
@@ -1958,7 +1958,7 @@ const json = {
       "topY" : 399.1793,
       "baseLineY" : 405.1385,
       "fontId" : 12,
-      "text" : "64"
+      "text" : "69"
     }, {
       "leftX" : 327.1536,
       "bottomY" : 407.1793,
@@ -1966,15 +1966,15 @@ const json = {
       "topY" : 399.1793,
       "baseLineY" : 405.1385,
       "fontId" : 12,
-      "text" : "1:38:15.803"
+      "text" : "1:40:54.909"
     }, {
-      "leftX" : 380.3957,
+      "leftX" : 384.7127,
       "bottomY" : 407.1793,
-      "rightX" : 404.296,
+      "rightX" : 404.2805,
       "topY" : 399.1793,
       "baseLineY" : 405.1385,
       "fontId" : 12,
-      "text" : "2 LAPS"
+      "text" : "1 LAP"
     }, {
       "leftX" : 418.3138,
       "bottomY" : 407.1793,
@@ -1982,7 +1982,7 @@ const json = {
       "topY" : 399.1793,
       "baseLineY" : 405.1385,
       "fontId" : 12,
-      "text" : "42.672"
+      "text" : "12.123"
     }, {
       "leftX" : 454.6479,
       "bottomY" : 407.1793,
@@ -1990,7 +1990,7 @@ const json = {
       "topY" : 399.1793,
       "baseLineY" : 405.1385,
       "fontId" : 12,
-      "text" : "182.615"
+      "text" : "179.704"
     }, {
       "leftX" : 494.5079,
       "bottomY" : 407.1793,
@@ -1998,293 +1998,357 @@ const json = {
       "topY" : 399.1793,
       "baseLineY" : 405.1385,
       "fontId" : 12,
-      "text" : "1:28.281"
+      "text" : "1:22.478"
     }, {
       "leftX" : 536.7421,
       "bottomY" : 407.1793,
-      "rightX" : 545.6948,
+      "rightX" : 547.4533,
       "topY" : 399.1793,
       "baseLineY" : 405.1385,
       "fontId" : 12,
-      "text" : "56"
+      "text" : "60 "
     }, {
-      "leftX" : 273.9116,
-      "bottomY" : 427.1813,
-      "rightX" : 332.3514,
-      "topY" : 419.1813,
-      "baseLineY" : 425.1405,
-      "fontId" : 11,
-      "text" : "NOT CLASSIFIED "
+      "leftX" : 26.981,
+      "bottomY" : 419.3393,
+      "rightX" : 35.9336,
+      "topY" : 411.3393,
+      "baseLineY" : 417.2985,
+      "fontId" : 12,
+      "text" : "19"
     }, {
       "leftX" : 44.8964,
-      "bottomY" : 439.3403,
+      "bottomY" : 419.3393,
       "rightX" : 53.849,
-      "topY" : 431.3403,
-      "baseLineY" : 437.2995,
+      "topY" : 411.3393,
+      "baseLineY" : 417.2985,
       "fontId" : 11,
-      "text" : "24"
+      "text" : "22"
     }, {
       "leftX" : 60.8691,
-      "bottomY" : 439.3403,
-      "rightX" : 108.9574,
-      "topY" : 431.3403,
-      "baseLineY" : 437.2995,
+      "bottomY" : 419.3393,
+      "rightX" : 112.1228,
+      "topY" : 411.3393,
+      "baseLineY" : 417.2985,
       "fontId" : 11,
-      "text" : "ZHOU Guanyu"
+      "text" : "Yuki TSUNODA"
     }, {
       "leftX" : 174.0453,
-      "bottomY" : 439.3403,
+      "bottomY" : 419.3393,
+      "rightX" : 240.7422,
+      "topY" : 411.3393,
+      "baseLineY" : 417.2985,
+      "fontId" : 12,
+      "text" : "Scuderia AlphaTauri"
+    }, {
+      "leftX" : 306.8636,
+      "bottomY" : 419.3393,
+      "rightX" : 315.8162,
+      "topY" : 411.3393,
+      "baseLineY" : 417.2985,
+      "fontId" : 12,
+      "text" : "68"
+    }, {
+      "leftX" : 327.1536,
+      "bottomY" : 419.3393,
+      "rightX" : 368.1598,
+      "topY" : 411.3393,
+      "baseLineY" : 417.2985,
+      "fontId" : 12,
+      "text" : "1:40:28.741"
+    }, {
+      "leftX" : 380.3957,
+      "bottomY" : 419.3393,
+      "rightX" : 404.296,
+      "topY" : 411.3393,
+      "baseLineY" : 417.2985,
+      "fontId" : 12,
+      "text" : "2 LAPS"
+    }, {
+      "leftX" : 422.8458,
+      "bottomY" : 419.3393,
+      "rightX" : 442.4136,
+      "topY" : 411.3393,
+      "baseLineY" : 417.2985,
+      "fontId" : 12,
+      "text" : "1 LAP"
+    }, {
+      "leftX" : 454.6479,
+      "bottomY" : 419.3393,
+      "rightX" : 483.2324,
+      "topY" : 411.3393,
+      "baseLineY" : 417.2985,
+      "fontId" : 12,
+      "text" : "177.868"
+    }, {
+      "leftX" : 494.5079,
+      "bottomY" : 419.3393,
+      "rightX" : 524.8269,
+      "topY" : 411.3393,
+      "baseLineY" : 417.2985,
+      "fontId" : 12,
+      "text" : "1:23.538"
+    }, {
+      "leftX" : 536.7421,
+      "bottomY" : 419.3393,
+      "rightX" : 547.4533,
+      "topY" : 411.3393,
+      "baseLineY" : 417.2985,
+      "fontId" : 12,
+      "text" : "58 "
+    }, {
+      "leftX" : 26.981,
+      "bottomY" : 431.4983,
+      "rightX" : 35.9336,
+      "topY" : 423.4983,
+      "baseLineY" : 429.4575,
+      "fontId" : 12,
+      "text" : "20"
+    }, {
+      "leftX" : 44.8964,
+      "bottomY" : 431.4983,
+      "rightX" : 53.849,
+      "topY" : 423.4983,
+      "baseLineY" : 429.4575,
+      "fontId" : 11,
+      "text" : "77"
+    }, {
+      "leftX" : 60.8691,
+      "bottomY" : 431.4983,
+      "rightX" : 116.2714,
+      "topY" : 423.4983,
+      "baseLineY" : 429.4575,
+      "fontId" : 11,
+      "text" : "Valtteri BOTTAS"
+    }, {
+      "leftX" : 174.0453,
+      "bottomY" : 431.4983,
       "rightX" : 269.8862,
-      "topY" : 431.3403,
-      "baseLineY" : 437.2995,
+      "topY" : 423.4983,
+      "baseLineY" : 429.4575,
       "fontId" : 12,
       "text" : "Alfa Romeo F1 Team ORLEN"
     }, {
       "leftX" : 306.8636,
-      "bottomY" : 439.3403,
+      "bottomY" : 431.4983,
       "rightX" : 315.8162,
-      "topY" : 431.3403,
-      "baseLineY" : 437.2995,
+      "topY" : 423.4983,
+      "baseLineY" : 429.4575,
       "fontId" : 12,
-      "text" : "28"
+      "text" : "65"
     }, {
-      "leftX" : 333.2697,
-      "bottomY" : 439.3403,
-      "rightX" : 368.0651,
-      "topY" : 431.3403,
-      "baseLineY" : 437.2995,
+      "leftX" : 327.1536,
+      "bottomY" : 431.4983,
+      "rightX" : 368.1598,
+      "topY" : 423.4983,
+      "baseLineY" : 429.4575,
       "fontId" : 12,
-      "text" : "42:55.571"
+      "text" : "1:33:41.246"
     }, {
       "leftX" : 389.5338,
-      "bottomY" : 439.3403,
+      "bottomY" : 431.4983,
       "rightX" : 404.2976,
-      "topY" : 431.3403,
-      "baseLineY" : 437.2995,
+      "topY" : 423.4983,
+      "baseLineY" : 429.4575,
       "fontId" : 12,
       "text" : "DNF"
     }, {
-      "leftX" : 454.3599,
-      "bottomY" : 439.3403,
-      "rightX" : 482.9444,
-      "topY" : 431.3403,
-      "baseLineY" : 437.2995,
+      "leftX" : 454.6479,
+      "bottomY" : 431.4983,
+      "rightX" : 483.2324,
+      "topY" : 423.4983,
+      "baseLineY" : 429.4575,
       "fontId" : 12,
-      "text" : "182.789"
+      "text" : "182.345"
     }, {
-      "leftX" : 494.364,
-      "bottomY" : 439.3403,
-      "rightX" : 524.683,
-      "topY" : 431.3403,
-      "baseLineY" : 437.2995,
+      "leftX" : 494.5079,
+      "bottomY" : 431.4983,
+      "rightX" : 524.8269,
+      "topY" : 423.4983,
+      "baseLineY" : 429.4575,
       "fontId" : 12,
-      "text" : "1:28.415"
+      "text" : "1:24.002"
     }, {
-      "leftX" : 537.1741,
-      "bottomY" : 439.3403,
-      "rightX" : 547.8853,
-      "topY" : 431.3403,
-      "baseLineY" : 437.2995,
+      "leftX" : 536.7421,
+      "bottomY" : 431.4983,
+      "rightX" : 545.6948,
+      "topY" : 423.4983,
+      "baseLineY" : 429.4575,
       "fontId" : 12,
-      "text" : "12 "
-    }, {
-      "leftX" : 44.8964,
-      "bottomY" : 451.5004,
-      "rightX" : 53.849,
-      "topY" : 443.5004,
-      "baseLineY" : 449.4596,
-      "fontId" : 11,
-      "text" : "16"
-    }, {
-      "leftX" : 60.8691,
-      "bottomY" : 451.5004,
-      "rightX" : 118.4935,
-      "topY" : 443.5004,
-      "baseLineY" : 449.4596,
-      "fontId" : 11,
-      "text" : "Charles LECLERC"
-    }, {
-      "leftX" : 174.0453,
-      "bottomY" : 451.5004,
-      "rightX" : 226.9456,
-      "topY" : 443.5004,
-      "baseLineY" : 449.4596,
-      "fontId" : 12,
-      "text" : "Scuderia Ferrari"
-    }, {
-      "leftX" : 306.8636,
-      "bottomY" : 451.5004,
-      "rightX" : 315.8162,
-      "topY" : 443.5004,
-      "baseLineY" : 449.4596,
-      "fontId" : 12,
-      "text" : "27"
-    }, {
-      "leftX" : 333.2697,
-      "bottomY" : 451.5004,
-      "rightX" : 368.0651,
-      "topY" : 443.5004,
-      "baseLineY" : 449.4596,
-      "fontId" : 12,
-      "text" : "40:21.658"
-    }, {
-      "leftX" : 389.5338,
-      "bottomY" : 451.5004,
-      "rightX" : 404.2976,
-      "topY" : 443.5004,
-      "baseLineY" : 449.4596,
-      "fontId" : 12,
-      "text" : "DNF"
-    }, {
-      "leftX" : 454.3599,
-      "bottomY" : 451.5004,
-      "rightX" : 482.9444,
-      "topY" : 443.5004,
-      "baseLineY" : 449.4596,
-      "fontId" : 12,
-      "text" : "187.456"
-    }, {
-      "leftX" : 494.364,
-      "bottomY" : 451.5004,
-      "rightX" : 524.683,
-      "topY" : 443.5004,
-      "baseLineY" : 449.4596,
-      "fontId" : 12,
-      "text" : "1:27.030"
-    }, {
-      "leftX" : 537.1741,
-      "bottomY" : 451.5004,
-      "rightX" : 546.1267,
-      "topY" : 443.5004,
-      "baseLineY" : 449.4596,
-      "fontId" : 12,
-      "text" : "25"
+      "text" : "60"
     }, {
       "leftX" : 277.0045,
-      "bottomY" : 469.9914,
+      "bottomY" : 469.3434,
       "rightX" : 324.4054,
-      "topY" : 461.9914,
-      "baseLineY" : 467.9506,
+      "topY" : 461.3434,
+      "baseLineY" : 467.3026,
       "fontId" : 11,
       "text" : "FASTEST LAP "
     }, {
       "leftX" : 44.9684,
-      "bottomY" : 482.1504,
+      "bottomY" : 481.5033,
       "rightX" : 53.921,
-      "topY" : 474.1504,
-      "baseLineY" : 480.1096,
+      "topY" : 473.5033,
+      "baseLineY" : 479.4626,
       "fontId" : 11,
-      "text" : "11"
+      "text" : "44"
     }, {
       "leftX" : 60.8691,
-      "bottomY" : 482.1504,
-      "rightX" : 107.3827,
-      "topY" : 474.1504,
-      "baseLineY" : 480.1096,
+      "bottomY" : 481.5033,
+      "rightX" : 120.5798,
+      "topY" : 473.5033,
+      "baseLineY" : 479.4626,
       "fontId" : 11,
-      "text" : "Sergio PEREZ"
+      "text" : "Lewis HAMILTON"
     }, {
       "leftX" : 174.0453,
-      "bottomY" : 482.1504,
-      "rightX" : 249.3512,
-      "topY" : 474.1504,
-      "baseLineY" : 480.1096,
+      "bottomY" : 481.5033,
+      "rightX" : 290.4373,
+      "topY" : 473.5033,
+      "baseLineY" : 479.4626,
       "fontId" : 12,
-      "text" : "Oracle Red Bull Racing"
+      "text" : "Mercedes-AMG Petronas F1 Team"
     }, {
       "leftX" : 338.2337,
-      "bottomY" : 482.1504,
+      "bottomY" : 481.5033,
       "rightX" : 368.5527,
-      "topY" : 474.1504,
-      "baseLineY" : 480.1096,
+      "topY" : 473.5033,
+      "baseLineY" : 479.4626,
       "fontId" : 12,
-      "text" : "1:24.108"
+      "text" : "1:21.386"
     }, {
       "leftX" : 374.2402,
-      "bottomY" : 482.1504,
+      "bottomY" : 481.5033,
       "rightX" : 405.2866,
-      "topY" : 474.1504,
-      "baseLineY" : 480.1096,
+      "topY" : 473.5033,
+      "baseLineY" : 479.4626,
       "fontId" : 12,
-      "text" : "on lap 55"
+      "text" : "on lap 57"
     }, {
       "leftX" : 454.6479,
-      "bottomY" : 482.1504,
+      "bottomY" : 481.5033,
       "rightX" : 483.2324,
-      "topY" : 474.1504,
-      "baseLineY" : 480.1096,
+      "topY" : 473.5033,
+      "baseLineY" : 479.4626,
       "fontId" : 12,
-      "text" : "200.099"
+      "text" : "193.787"
     }, {
       "leftX" : 285.4225,
-      "bottomY" : 502.8004,
+      "bottomY" : 502.1525,
       "rightX" : 310.9135,
-      "topY" : 494.8004,
-      "baseLineY" : 500.7596,
+      "topY" : 494.1525,
+      "baseLineY" : 500.1117,
       "fontId" : 11,
       "text" : "NOTES "
     }, {
       "leftX" : 25.1823,
-      "bottomY" : 514.9595,
+      "bottomY" : 514.3125,
       "rightX" : 171.5414,
-      "topY" : 506.9595,
-      "baseLineY" : 512.9187,
+      "topY" : 506.3125,
+      "baseLineY" : 512.2717,
       "fontId" : 12,
       "text" : "Subject to ongoing routine technical checks."
     }, {
       "leftX" : 275.4936,
-      "bottomY" : 536.1124,
+      "bottomY" : 535.4654,
       "rightX" : 320.936,
-      "topY" : 528.1124,
-      "baseLineY" : 534.0717,
+      "topY" : 527.4654,
+      "baseLineY" : 533.4247,
       "fontId" : 11,
       "text" : "* PENALTIES "
     }, {
       "leftX" : 24.9664,
-      "bottomY" : 548.2715,
-      "rightX" : 272.6259,
-      "topY" : 540.2715,
-      "baseLineY" : 546.2307,
+      "bottomY" : 547.6245,
+      "rightX" : 290.6671,
+      "topY" : 539.6245,
+      "baseLineY" : 545.5837,
       "fontId" : 12,
-      "text" : "Car 23 - 5 second time penalty - Track limits - Stewards' document no. 57"
+      "text" : "Car 3 - 5 second time penalty - Causing a collision - Stewards' document no. 42"
     }, {
-      "leftX" : 27.2258,
-      "bottomY" : 712.3492,
-      "rightX" : 84.3958,
-      "topY" : 702.3492,
-      "baseLineY" : 710.1561,
+      "leftX" : 24.4707,
+      "bottomY" : 704.6832,
+      "rightX" : 91.072,
+      "topY" : 694.6832,
+      "baseLineY" : 702.4901,
       "fontId" : 14,
-      "text" : "Tim Mayer"
+      "text" : "Nish Shetty "
     }, {
-      "leftX" : 171.119,
-      "bottomY" : 712.3492,
-      "rightX" : 234.3947,
-      "topY" : 702.3492,
-      "baseLineY" : 710.1561,
+      "leftX" : 96.4133,
+      "bottomY" : 704.6832,
+      "rightX" : 99.741,
+      "topY" : 694.6832,
+      "baseLineY" : 702.4901,
       "fontId" : 14,
-      "text" : "Nish Shetty"
+      "text" : " "
     }, {
-      "leftX" : 315.0162,
-      "bottomY" : 712.3492,
-      "rightX" : 379.9808,
-      "topY" : 702.3492,
-      "baseLineY" : 710.1561,
+      "leftX" : 132.3831,
+      "bottomY" : 704.6832,
+      "rightX" : 135.7108,
+      "topY" : 694.6832,
+      "baseLineY" : 702.4901,
       "fontId" : 14,
-      "text" : "Tonio Luizzi"
+      "text" : " "
     }, {
-      "leftX" : 458.9085,
-      "bottomY" : 712.3492,
-      "rightX" : 543.8591,
-      "topY" : 702.3492,
-      "baseLineY" : 710.1561,
+      "leftX" : 168.3529,
+      "bottomY" : 704.6832,
+      "rightX" : 233.2834,
+      "topY" : 694.6832,
+      "baseLineY" : 702.4901,
       "fontId" : 14,
-      "text" : "David Domingo "
+      "text" : "Matt Selley "
     }, {
-      "leftX" : 27.2258,
-      "bottomY" : 725.9396,
-      "rightX" : 102.7239,
-      "topY" : 715.9396,
-      "baseLineY" : 723.7466,
+      "leftX" : 240.2925,
+      "bottomY" : 704.6832,
+      "rightX" : 243.6202,
+      "topY" : 694.6832,
+      "baseLineY" : 702.4901,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 276.2623,
+      "bottomY" : 704.6832,
+      "rightX" : 279.59,
+      "topY" : 694.6832,
+      "baseLineY" : 702.4901,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 312.2321,
+      "bottomY" : 704.6832,
+      "rightX" : 398.2769,
+      "topY" : 694.6832,
+      "baseLineY" : 702.4901,
+      "fontId" : 14,
+      "text" : "Derek Warwick "
+    }, {
+      "leftX" : 420.1486,
+      "bottomY" : 704.6832,
+      "rightX" : 423.4763,
+      "topY" : 694.6832,
+      "baseLineY" : 702.4901,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 456.1184,
+      "bottomY" : 704.6832,
+      "rightX" : 459.4461,
+      "topY" : 694.6832,
+      "baseLineY" : 702.4901,
+      "fontId" : 14,
+      "text" : " "
+    }, {
+      "leftX" : 492.0882,
+      "bottomY" : 704.6832,
+      "rightX" : 573.1484,
+      "topY" : 694.6832,
+      "baseLineY" : 702.4901,
+      "fontId" : 14,
+      "text" : "Lajos Herczeg "
+    }, {
+      "leftX" : 24.4707,
+      "bottomY" : 718.2746,
+      "rightX" : 99.9688,
+      "topY" : 708.2746,
+      "baseLineY" : 716.0815,
       "fontId" : 14,
       "text" : "The Stewards"
     }, {
@@ -2305,58 +2369,58 @@ const json = {
       "text" : "© 2022 Formula One World Championship Limited"
     }, {
       "leftX" : 25.0383,
-      "bottomY" : 798.1186,
-      "rightX" : 563.7466,
-      "topY" : 792.1186,
-      "baseLineY" : 796.9842,
+      "bottomY" : 798.1196,
+      "rightX" : 563.0264,
+      "topY" : 792.1196,
+      "baseLineY" : 796.9852,
       "fontId" : 16,
       "text" : "The F1 FORMULA 1 logo, F1 logo, FORMULA 1, FORMULA ONE, F1, FIA FORMULA ONE WORLD CHAMPIONSHIP, GRAND PRIX and related marks are trade marks of Formula One Licensing BV, a "
     }, {
       "leftX" : 25.0383,
-      "bottomY" : 804.8105,
+      "bottomY" : 804.8109,
       "rightX" : 52.0392,
-      "topY" : 798.8105,
-      "baseLineY" : 803.6761,
+      "topY" : 798.8109,
+      "baseLineY" : 803.6765,
       "fontId" : 16,
       "text" : "Formula 1"
     }, {
       "leftX" : 52.0194,
-      "bottomY" : 804.8105,
-      "rightX" : 254.6786,
-      "topY" : 798.8105,
-      "baseLineY" : 803.6761,
+      "bottomY" : 804.8109,
+      "rightX" : 253.7919,
+      "topY" : 798.8109,
+      "baseLineY" : 803.6765,
       "fontId" : 17,
       "text" : " company. The FIA logo is a trade mark of the Fédération Internationale de l’"
     }, {
-      "leftX" : 254.7008,
-      "bottomY" : 804.8105,
-      "rightX" : 339.3245,
-      "topY" : 798.8105,
-      "baseLineY" : 803.6761,
+      "leftX" : 253.838,
+      "bottomY" : 804.8109,
+      "rightX" : 338.4617,
+      "topY" : 798.8109,
+      "baseLineY" : 803.6765,
       "fontId" : 16,
       "text" : "Automobile. All rights reserved. "
     }, {
-      "leftX" : 25.0377,
-      "bottomY" : 811.5018,
-      "rightX" : 566.8495,
-      "topY" : 805.5018,
-      "baseLineY" : 810.3674,
+      "leftX" : 25.0383,
+      "bottomY" : 811.5022,
+      "rightX" : 566.8502,
+      "topY" : 805.5022,
+      "baseLineY" : 810.3678,
       "fontId" : 16,
       "text" : "No part of these results/data may be reproduced, stored in a retrieval system or transmitted in any form or by any means electronic, mechanical, photocopying, recording, broadcasting or otherwise without "
     }, {
-      "leftX" : 25.0377,
-      "bottomY" : 818.1931,
-      "rightX" : 547.6619,
-      "topY" : 812.1931,
-      "baseLineY" : 817.0587,
+      "leftX" : 25.0383,
+      "bottomY" : 818.1936,
+      "rightX" : 547.6625,
+      "topY" : 812.1936,
+      "baseLineY" : 817.0591,
       "fontId" : 16,
       "text" : "prior permission of the copyright holder except for reproduction in local/national/international daily press and regular printed publications on sale to the public within 90 days of the event to which the "
     }, {
-      "leftX" : 25.0377,
-      "bottomY" : 824.8851,
-      "rightX" : 281.2833,
-      "topY" : 818.8851,
-      "baseLineY" : 823.7507,
+      "leftX" : 25.0383,
+      "bottomY" : 824.8854,
+      "rightX" : 281.2839,
+      "topY" : 818.8854,
+      "baseLineY" : 823.751,
       "fontId" : 16,
       "text" : "results/data relate and provided that the copyright symbol and name of copyright owner appears."
     } ],

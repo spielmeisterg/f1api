@@ -1,6 +1,6 @@
 let iteration = 0
 const getDriverData = (i,result, offset) =>{
-    let firstDnf = 0
+    let firstDnf = 999999
     result.map((value, index) => {
         if(value.trim() === "NOT CLASSIFIED"){
             firstDnf = index

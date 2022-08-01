@@ -4,36 +4,30 @@ const getPuData = require("./getPuData.js")
 const results = require("./data/results.js")
 const puData = require("./data/puData.js")
 const app = express()
-const port = 3000
-const trimmedResults = results.pages[1].txtRns.map(value => value.text)
+const port = 3001
 const trimmedPuData = puData.pages[1].txtRns.map(value => value.text)
 let data = []
 let puUsage = []
 
+let cors = require("cors");
+app.use(cors());
+app.use(express.json())
 
-app.get("/upload", (req,res) => {
-    res.sendFile(__dirname + "/public/upload.html")
-})
-app.get("/upload/results",(req, res) => {
-    res.sendFile(__dirname + "/public/resultsUpload.html")
-})
-app.get("/upload/pu",(req, res) => {
-    res.sendFile(__dirname + "/public/puUpload.html")
-})
-app.post("/upload/results", (req,res) => {
-    console.log("tried to update results")
-    res.send("tried to update results")
-})
-app.post("/upload/pu", (req,res) => {
-    console.log("tried to update pu usage")
-    res.send("tried to update pu usage")
-})
-app.get("/results", (req,res) => {
-    for(let i = 0; i <= 19; i++){
-        data.push(getDriverData(i, trimmedResults,0))
+function retrieveData(results, offset) {
+    if(data.length <= 0){
+        for(let i = 0; i <= 19; i++){
+        data.push(getDriverData(i, results,offset))
     }
-    console.log("getting driver results")
-    res.json(data)
+        console.log("getting driver results")
+        return data
+    }
+    else{
+        return data
+    }
+}
+app.get("/results", (req,res) => {
+    const trimmedResults = results.pages[1].txtRns.map(value => value.text)
+    res.json(retrieveData(trimmedResults,0))
 })
 
 app.get("/pu", (req,res) => {
@@ -42,6 +36,11 @@ app.get("/pu", (req,res) => {
     }
     console.log("getting pu data")
     res.json(puUsage)
+})
+app.post("/upload", (req,res) => {
+    console.log(req.params)
+    results = JSON.parse(req.params.json)
+    res.send("test")
 })
 
 app.listen(port, () => console.log(`application is listening on http://localhost:${port}`))
